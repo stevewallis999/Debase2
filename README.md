@@ -1,7 +1,7 @@
 # Debase2
 
 Debase is an
-ADSL checker to check if an exe has been complied with ADSL enabled. Debase
+ASLR checker to check if an exe has been complied with ASLR enabled. Debase
 will also report if the exe is not a valid exe. 
 
 ASLR:
