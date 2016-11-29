@@ -23,4 +23,6 @@ debase.exe “filename.exe”
 Debase will
 simple report if an exe has ASLR enabled or disabled. 
 
+To compile source code use Visual Studio any version. 
+
 
